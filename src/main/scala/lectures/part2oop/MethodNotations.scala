@@ -70,7 +70,7 @@ object MethodNotations extends App {
   println((mary + "the Rockstar")())
   println(+mary.age) //returns 0
   println((+mary).age) //returns 1
-  println(mary learnsScala())
+  println(mary.learnsScala())
   println(mary(2))
 
 }
